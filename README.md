@@ -1,2 +1,2 @@
-# Sucess Ratio finder for coaching institutes
-Prediction of JEE and MHT-CET Marks using machine learning
+# Sucess Ratio of coaching institutes
+Predictive Modeling of JEE and MHT-CET Exam Scores using Machine Learning
